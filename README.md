@@ -1,6 +1,6 @@
 # dragon_hoard
 
-SWBAT
+## SWBAT
 	[ ] Define OO
 	[ ] Create an object
 	[ ] Create an instance of a ruby class
